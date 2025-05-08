@@ -55,7 +55,7 @@ Este desafío me parecido muy interesante, y me recordó a un proyecto anterior 
 ## Cómo Ejecutar el Proyecto
 
 1. Clona este repositorio:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone 
 
 2. Instala las dependencias:
    npm install
